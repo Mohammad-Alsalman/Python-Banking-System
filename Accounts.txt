@@ -1,0 +1,6 @@
+Type,Balance,Overdraft,interest rate,Name
+Current,1000.0,100.0,,Boris
+Current,1000.0,100.0,,Chloe
+Saving,4000.0,,2.99,Chloe
+Saving,200.0,,0.99,David
+Saving,5000.0,,4.99,David

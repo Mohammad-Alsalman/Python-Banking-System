@@ -1,0 +1,5 @@
+Type,Name,Password,Address
+admin,Arthur,123,
+customer,Boris,ABC,10 London Road
+customer,Chloe,1+x,99 Queens Road
+customer,David,aBC,2 Birmingham street
